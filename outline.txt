@@ -9,4 +9,4 @@ Chapter 3
 - Something else will go here
 
 Chapter 4
-- Our characters are moving along the journey
+- Our characters are moving along the journey.
